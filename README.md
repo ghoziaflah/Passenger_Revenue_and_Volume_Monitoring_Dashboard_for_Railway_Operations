@@ -71,7 +71,9 @@ This view helps users move beyond aggregated revenue figures and examine daily p
 
 The complete Power BI report consists of five pages. In addition to the three pages presented above, the report includes further views for train occupancy monitoring and other performance breakdowns.
 
-The full report file (`Passenger_Revenue_and_Volume_Monitoring_Dashboard_for_Railway_Operations.pbix`) is included in this repository for further exploration.
+The complete Power BI report (`.pbix`) is available for further exploration through the link below.
+
+📂 **[Access the Full Power BI Dashboard](https://drive.google.com/file/d/1uqCDWAUBUpNRpcKd97w_VE-rfU-bb7bK/view?usp=sharing)**
 
 ### Data Model
 
