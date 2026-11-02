@@ -6,7 +6,6 @@ A Power BI dashboard developed during my Data Analyst Internship at **PT Kereta 
 
 - **Power BI:** Dashboard development, data modeling, and interactive reporting.
 - **Microsoft Excel:** Data preparation and source data management.
-- **Python:** Data analysis and supporting data processing.
 
 ## 1. Background & Business Problem
 
